@@ -1,5 +1,8 @@
 import React from "react";
 import "./portfolio.css";
+import qDataOps from "../../Images/gettyimages-1398255066-612x612.jpg";
+import iDataOps from "../../Images/global-manufacturing.jpg";
+import dams from "../../Images/software-developer-6521720_1280.jpg";
 
 const Portfolio = () => {
   return (
@@ -9,10 +12,7 @@ const Portfolio = () => {
       <div className="container portfolio_container">
         <article className="portfolio_item">
           <div className="portfolio_item-image">
-            <img
-              src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=600"
-              alt="this is photo"
-            />
+            <img src={dams} alt="dams" />
           </div>
           <h3>Data Asset Management System</h3>
           <p>
@@ -26,10 +26,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio_item">
           <div className="portfolio_item-image">
-            <img
-              src="https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=600"
-              alt="this is photo"
-            />
+            <img src={iDataOps} alt="iDataOps" />
           </div>
           <h3>iDataOps </h3>
           <p>
@@ -41,10 +38,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio_item">
           <div className="portfolio_item-image">
-            <img
-              src="https://images.pexels.com/photos/941555/pexels-photo-941555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-              alt="this is photo"
-            />
+            <img src={qDataOps} alt="qDataOps" />
           </div>
           <h3>qDataOps</h3>
           <p>

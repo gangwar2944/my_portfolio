@@ -23,6 +23,9 @@
 .portfolio_item h3{
     margin: 1.2rem 0 2rem;
 }
+.portfolio_item a{
+    margin: 1.2rem 0;
+}
 .portfolio_item p{
     text-align: justify;
 }

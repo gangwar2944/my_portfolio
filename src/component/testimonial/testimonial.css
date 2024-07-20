@@ -24,7 +24,7 @@
 
 .single_testimonial_container{
     width: 300px;
-    height: 250px;
+    height: 415px;
 }
 .testimonials_navigation{
     display: flex;
@@ -42,6 +42,7 @@
     display: block;
     width: 80%;
     margin: 0.8rem auto 0;
+    text-align: justify;
 }
 @media screen and (max-width:1024px){
     .portfolio_container{

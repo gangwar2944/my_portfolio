@@ -5,6 +5,7 @@ import Experience from './component/experience/Experience';
 import Footer from './component/footer/Footer';
 import Header from './component/header/Header';
 import Nav from './component/nav/Nav';
+import PersonalProjects from './component/personalProjects/personalProjects';
 import Portfolio from './component/portfolio/Portfolio';
 import Services from './component/services/Services';
 import Testimonial from './component/testimonial/Testimonial';
@@ -18,6 +19,7 @@ function App() {
       <Experience/>
       <Services/>
       <Portfolio/>
+      <PersonalProjects/>
       <Testimonial/>
       <Contact/>
       <Footer/>

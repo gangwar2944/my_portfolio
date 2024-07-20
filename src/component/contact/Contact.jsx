@@ -11,10 +11,10 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    const serviceId =process.env.SERVICE_ID;
-    const templateKey =process.env.TEMPLATE_KEY;
+    // const serviceId =process.env.SERVICE_ID;
+    // const templateKey =process.env.TEMPLATE_KEY;
 
-    emailjs.sendForm(serviceId, templateKey, form.current, '6QQ6Q2TdocL0KD8zJ')
+    emailjs.sendForm("service_fim528n", "template_jyjzhis", form.current, '6QQ6Q2TdocL0KD8zJ')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
