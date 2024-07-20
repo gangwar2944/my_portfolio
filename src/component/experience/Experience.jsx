@@ -14,35 +14,42 @@ const Experience = () => {
             <article className="experience_details">
               <VerifiedIcon className="experience_detail-icon" />
               <div>
-                <h4>HTML</h4>
+                <h4>React.js</h4>
                 <small className="text-light"> Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <VerifiedIcon className="experience_detail-icon" />
               <div>
-                <h4>CSS</h4>
+                <h4>Redux</h4>
                 <small className="text-light"> Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <VerifiedIcon className="experience_detail-icon" />
               <div>
-                <h4>Javascript</h4>
+                <h4>Next.js</h4>
                 <small className="text-light"> Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <VerifiedIcon className="experience_detail-icon" />
               <div>
-                <h4>React JS</h4>
+                <h4>TypeScript</h4>
                 <small className="text-light"> Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <VerifiedIcon className="experience_detail-icon" />
               <div>
-                <h4>Tailwind</h4>
+                <h4>HTML5</h4>
+                <small className="text-light"> Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <VerifiedIcon className="experience_detail-icon" />
+              <div>
+                <h4>CSS3</h4>
                 <small className="text-light"> Experienced</small>
               </div>
             </article>
@@ -54,35 +61,21 @@ const Experience = () => {
             <article className="experience_details">
               <VerifiedIcon className="experience_detail-icon" />
               <div>
-                <h4>Spring boot</h4>
+                <h4>Java</h4>
                 <small className="text-light"> Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <VerifiedIcon className="experience_detail-icon" />
               <div>
-                <h4>JDBC</h4>
+                <h4>Spring Boot</h4>
                 <small className="text-light"> Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <VerifiedIcon className="experience_detail-icon" />
               <div>
-                <h4>Hibernate</h4>
-                <small className="text-light"> Experienced</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <VerifiedIcon className="experience_detail-icon" />
-              <div>
-                <h4>Mysql</h4>
-                <small className="text-light"> Experienced</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <VerifiedIcon className="experience_detail-icon" />
-              <div>
-                <h4>AWS</h4>
+                <h4>MySQL</h4>
                 <small className="text-light"> Experienced</small>
               </div>
             </article>

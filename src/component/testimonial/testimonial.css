@@ -1,6 +1,3 @@
-.testimonial_container{
-    width: 40%;
-}
 .client_avatar{
     width: 4rem;
     aspect-ratio: 1/1;
@@ -15,6 +12,29 @@
     padding: 2rem;
     border-radius: 2rem;
     user-select: none;
+    height: 100%;
+}
+.testimonials_container{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.single_testimonial_container{
+    width: 300px;
+    height: 250px;
+}
+.testimonials_navigation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+.Active{
+    color:var(--color-primary);
 }
 .client_review{
     color: var(--color-light);

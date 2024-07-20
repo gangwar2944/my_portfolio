@@ -14,19 +14,15 @@ const Portfolio = () => {
               alt="this is photo"
             />
           </div>
-          <h3>This is a portfolio item</h3>
-          <div className="portfolio_item-cta">
-            <a href="http://github.com" className="btn">
-              Github
-            </a>
-            <a
-              href="http://github.com"
-              className="btn btn-primary"
-              target="_blank"
-            >
-              Live Demo
-            </a>
-          </div>
+          <h3>Data Asset Management System</h3>
+          <p>
+            I developed a web app using Spring Boot, React.js, and MySQL to
+            streamline asset and employee management, attendance tracking, and
+            vendor information. It automated processes, improved operational
+            efficiency, and featured a responsive UI with Redux for state
+            management, ensuring effective data handling and user-friendly
+            experienc
+          </p>
         </article>
         <article className="portfolio_item">
           <div className="portfolio_item-image">
@@ -35,19 +31,13 @@ const Portfolio = () => {
               alt="this is photo"
             />
           </div>
-          <h3>This is a portfolio item</h3>
-          <div className="portfolio_item-cta">
-            <a href="http://github.com" className="btn">
-              Github
-            </a>
-            <a
-              href="http://github.com"
-              className="btn btn-primary"
-              target="_blank"
-            >
-              Live Demo
-            </a>
-          </div>
+          <h3>iDataOps </h3>
+          <p>
+            Machine Monitoring Software tracks real-time machine operations,
+            utilizes advanced Overall Equipment Effectiveness (OEE) metrics, and
+            enhances operational efficiency by overcoming downtime challenges
+            effectively.
+          </p>
         </article>
         <article className="portfolio_item">
           <div className="portfolio_item-image">
@@ -56,19 +46,15 @@ const Portfolio = () => {
               alt="this is photo"
             />
           </div>
-          <h3>This is a portfolio item</h3>
-          <div className="portfolio_item-cta">
-            <a href="http://github.com" className="btn">
-              Github
-            </a>
-            <a
-              href="http://github.com"
-              className="btn btn-primary"
-              target="_blank"
-            >
-              Live Demo
-            </a>
-          </div>
+          <h3>qDataOps</h3>
+          <p>
+            Introducing Quality Console, a centralized Quality Control Command
+            Center for realtime monitoring of manufacturing quality checks.
+            Automate data quality checks, streamline inspection processes, and
+            empower decision makers with data-driven dashboards. Elevate your
+            quality management system and make informed,strategic decisions for
+            enhanced business performance.
+          </p>
         </article>
       </div>
     </section>
