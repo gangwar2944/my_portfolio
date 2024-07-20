@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.a60e2677.css",
-    "main.js": "/my_portfolio/static/js/main.02c45655.js",
-    "static/media/resume.pdf": "/my_portfolio/static/media/resume.3c6c6d6dfefd60e19b68.pdf",
+    "main.css": "/my_portfolio/static/css/main.e9f73841.css",
+    "main.js": "/my_portfolio/static/js/main.6ae55733.js",
+    "static/media/ecommerce.png": "/my_portfolio/static/media/ecommerce.6f8e6a12dc0adbadda80.png",
+    "static/media/spaceX.jpg": "/my_portfolio/static/media/spaceX.99baf8dd92707a2662d6.jpg",
+    "static/media/global-manufacturing.jpg": "/my_portfolio/static/media/global-manufacturing.53dba3d2af128e002569.jpg",
+    "static/media/resume.pdf": "/my_portfolio/static/media/resume.2c63f459bc1752b32214.pdf",
+    "static/media/whatsapps.png": "/my_portfolio/static/media/whatsapps.202d58e04d3aa539b58b.png",
+    "static/media/software-developer-6521720_1280.jpg": "/my_portfolio/static/media/software-developer-6521720_1280.a92c41b851977e4abd99.jpg",
+    "static/media/gettyimages-1398255066-612x612.jpg": "/my_portfolio/static/media/gettyimages-1398255066-612x612.5d02b096862ef41ea7d0.jpg",
     "static/media/slick.svg": "/my_portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/my_portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/my_portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/my_portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my_portfolio/index.html",
-    "main.a60e2677.css.map": "/my_portfolio/static/css/main.a60e2677.css.map",
-    "main.02c45655.js.map": "/my_portfolio/static/js/main.02c45655.js.map"
+    "main.e9f73841.css.map": "/my_portfolio/static/css/main.e9f73841.css.map",
+    "main.6ae55733.js.map": "/my_portfolio/static/js/main.6ae55733.js.map"
   },
   "entrypoints": [
-    "static/css/main.a60e2677.css",
-    "static/js/main.02c45655.js"
+    "static/css/main.e9f73841.css",
+    "static/js/main.6ae55733.js"
   ]
 }
